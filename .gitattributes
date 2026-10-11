@@ -1,0 +1,6 @@
+* text=auto
+
+docker-entrypoint.sh text eol=If
+Dockerfile text eol=If
+*.sh text eol=If
+*.bash text eol=If
